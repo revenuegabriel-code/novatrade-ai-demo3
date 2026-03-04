@@ -1,0 +1,7 @@
+{
+  "name": "Remix: NovaTrade AI",
+  "description": "Premium AI-powered trading platform with voice assistant",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
